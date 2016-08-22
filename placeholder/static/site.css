@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+	
+}
+
+ul {
+	list_type:none;
+}
+
+li {
+	display: inline-block;
+}
